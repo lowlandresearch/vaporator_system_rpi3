@@ -2,7 +2,12 @@
 
 [![Hex version](https://img.shields.io/hexpm/v/vaporator_system_rpi3.svg "Hex version")](https://hex.pm/packages/vaporator_system_rpi3)
 
-This is the base Nerves System configuration for the Raspberry Pi 3 Model B.
+This is a customized Nerves System configuration for the Raspberry Pi 3 Model B.
+
+## Customizations
+
+* Installed `samba4` package
+
 
 ![Fritzing Raspberry Pi 3 image](assets/images/raspberry-pi-3-model-b.png)
 <br><sup>[Image credit](#fritzing)</sup>
